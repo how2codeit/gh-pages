@@ -1,0 +1,5 @@
+baseurl = "http://www.how2code.it/"
+title = "how2code.it"
+languageCode = "de-de"
+theme = "hugo-freelancer-theme"
+publishdir = "docs"
